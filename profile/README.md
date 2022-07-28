@@ -1,6 +1,6 @@
 # Study Groups for Data Science
 
-This collection of 20+ repos is a result of work I led at Thinkful from 2018-2020.  As of fall 2022, many remain active.
+This collection of 20+ repos is a result of work I led at Thinkful from 2018-2020, any remain active.
 
 ### Data science
 - [ds-study-group](https://github.com/study-groups/ds-study-group): fundamentals of data science
