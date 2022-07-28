@@ -20,4 +20,5 @@ This collection of 20+ repos is a result of work done as an instructor at Thinkf
 
 ### Advanced
 - [math-study-group](https://github.com/study-groups/math-study-group/tree/master/category-theory): Catetory theory via Tai-Danae Bradley, et. al.
+- [bayesian-study-group](https://github.com/study-groups/bayesian-study-group): Bayesian statistics ala Richard McElreath
 - [genomics-study-group](https://github.com/study-groups/genomics-study-group): Bioinfomatics over graph networks
