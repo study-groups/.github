@@ -3,7 +3,7 @@
 This collection of 20+ repos is a result of work I led at Thinkful from 2018-2020, any remain active.
 
 ### Data science
-- [ds-study-group](https://github.com/study-groups/ds-study-group): fundamentals of data science
+- [ds-study-group](https://github.com/study-groups/ds-study-group): Fundamentals of data science
 - [bird2vec](https://github.com/mricos/bird2vec): Applying WaveGan to extinct bird recordings
 - [inagural-nlp](https://github.com/serfsup/thinkful-unsupervised-capstone): Extensive NLP processing techniques
 
@@ -12,7 +12,7 @@ This collection of 20+ repos is a result of work I led at Thinkful from 2018-202
 
 ### Backend
 - [devops-study-group](https://github.com/study-groups/devops-study-group): Linux, Dask, Ray
-- [dataops-study-group](https://github.com/study-groups/dataops-study-group): distribrubed data pipelines
+- [dataops-study-group](https://github.com/study-groups/dataops-study-group): Distribrubed data pipelines
 
 ### Fullstack
 - [live-topic-analysis](https://github.com/study-groups/live-topic-analysis): Docker, Spark
@@ -20,4 +20,4 @@ This collection of 20+ repos is a result of work I led at Thinkful from 2018-202
 
 ### Advanced
 - [math-study-group](https://github.com/study-groups/math-study-group/tree/master/category-theory): Catetory theory via Tai-Danae Bradley, et. al.
-- [genomics-study-group](https://github.com/study-groups/genomics-study-group): bioinfomatics over graph networks
+- [genomics-study-group](https://github.com/study-groups/genomics-study-group): Bioinfomatics over graph networks
