@@ -9,5 +9,5 @@ many remain active, including:
 - [devops-study-group](https://github.com/study-groups/devops-study-group): Linux, Dask, Ray
 - [js-study-group](https://github.com/study-groups/js-study-group): Frontend HTML/CSS/JS and React
 - [live-topic-analysis](https://github.com/study-groups/live-topic-analysis): Docker, Spark
-- [sentiment-analysis-engine(https://gitlab.com/zoverlvx/sentiment-analysis-engine)
+- [sentiment-analysis-engine](https://gitlab.com/zoverlvx/sentiment-analysis-engine)
 - [genomics-study-group](https://github.com/study-groups/genomics-study-group): bioinfomatics over graph networks
