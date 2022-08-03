@@ -19,6 +19,7 @@ This collection of 20+ repos that started at Thinkful from 2018-2020, many remai
 - [sentiment-analysis-engine](https://gitlab.com/zoverlvx/sentiment-analysis-engine): NodeJS based API
 
 ### Advanced
+- [geometric-study-group](): Geometric deep learning over graphs
 - [math-study-group](https://github.com/study-groups/math-study-group/tree/master/category-theory): Catetory theory via Tai-Danae Bradley, et. al.
 - [bayesian-study-group](https://github.com/study-groups/bayesian-study-group): Bayesian statistics ala Richard McElreath
 - [genomics-study-group](https://github.com/study-groups/genomics-study-group): Bioinfomatics over graph networks
